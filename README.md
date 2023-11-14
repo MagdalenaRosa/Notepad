@@ -5,4 +5,5 @@ project presents a notebook with basic functions such as saving, opening and cre
 
 ## Next step:
 
-1. add bolding, underlining, and change the appearance of text not for the whole text as it is now, but for the selected item   
+1. add bolding, underlining
+2. change the appearance of text not for the whole text as it is now, but for the selected item   
